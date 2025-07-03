@@ -1,0 +1,8 @@
+langchain
+langchain-community
+chromadb
+fastembed
+pypdf
+huggingface_hub
+ollama
+tiktoken
